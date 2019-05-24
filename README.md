@@ -1,2 +1,2 @@
-# hot-saus
-My repository
+# review
+Repository for reviewing data structures and algorithms. :D
