@@ -27,7 +27,6 @@ int main()
 
 	int arr3[6], i;
 
-
 	// Shows that array values are stored in contiguous locations.
 	printf("Size of integer for this compiler is %lu\n", sizeof(int));
 
